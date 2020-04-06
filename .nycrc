@@ -1,0 +1,12 @@
+{
+    "include": [
+        "src/**",
+        "node_modules/work/**"
+    ],
+    "excludeNodeModules": false,
+    "report-dir": "coverage",
+    "reporter": [
+        "text",
+        "html"
+    ]
+}
