@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "scripts": {
+    "nyc": "npx nyc node ./src/test.js"
+  }
+}

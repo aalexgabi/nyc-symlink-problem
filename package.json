@@ -1,9 +1,0 @@
-{
-  "private": true,
-  "scripts": {
-    "nyc": "nyc node ./src/test.js"
-  },
-  "dependencies": {
-    "nyc": "^15.0.1"
-  }
-}

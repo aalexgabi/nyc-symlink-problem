@@ -1,4 +1,4 @@
-const work = require('work');
+const work = require('lib');
 
 function run() {
   console.log('running')
